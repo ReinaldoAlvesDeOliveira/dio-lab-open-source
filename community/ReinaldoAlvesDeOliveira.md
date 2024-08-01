@@ -1,5 +1,5 @@
 
-# Reinaldo Alves de Oliveira
+# Reinaldo Oliveira
 
 Estudante de Java que tem Interesse em mobile 
 
